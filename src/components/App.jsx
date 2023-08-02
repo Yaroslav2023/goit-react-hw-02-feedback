@@ -9,7 +9,7 @@ class App extends Component {
   };
 
   render() {
-    return <Section title="Please leave feedback"></Section>;
+    return <Section title="Please leave feedback" />;
   }
 }
 
